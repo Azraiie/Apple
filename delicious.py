@@ -1,0 +1,1 @@
+print("Apple is something and something.")
